@@ -1,0 +1,3 @@
+# WISEWORLD
+
+## React SPA app
