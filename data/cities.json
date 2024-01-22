@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Matola",
+      "country": "Mozambique",
+      "emoji": "🇲🇿",
+      "date": "2023-11-19T15:59:41.039Z",
+      "notes": "",
+      "position": {
+        "lat": "-25.9013435",
+        "lng": "32.5259486"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Kwekwe",
+      "country": "Zimbabwe",
+      "emoji": "🇿🇼",
+      "date": "2023-11-19T15:59:55.579Z",
+      "notes": "",
+      "position": {
+        "lat": "-18.98725812599612",
+        "lng": "30.08245121038481"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Caia",
+      "country": "Mozambique",
+      "emoji": "🇲🇿",
+      "date": "2023-11-19T21:28:08.943Z",
+      "notes": "",
+      "position": {
+        "lat": "-17.936928637549443",
+        "lng": "35.15625000000001"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Marrupa",
+      "country": "Mozambique",
+      "emoji": "🇲🇿",
+      "date": "2023-11-19T21:28:21.089Z",
+      "notes": "",
+      "position": {
+        "lat": "-13.068776734357694",
+        "lng": "37.48535156250001"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Kazungula",
+      "country": "Zambia",
+      "emoji": "🇿🇲",
+      "date": "2023-11-20T13:24:29.657Z",
+      "notes": "",
+      "position": {
+        "lat": "-17.046281225389077",
+        "lng": "25.466308593750004"
+      },
+      "id": 6
+    }
+  ]
+}
